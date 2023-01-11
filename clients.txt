@@ -1,10 +1,11 @@
-Blizzard Anatoly Viktorovich,9252115923,29.11.2020,29.11.2023,500,1500
-Shevchenko Inna Konstantinovna,4993921025,09.03.2018,09.03.2022,0,0		
-Minkin Vladimir Isaakovich,4955457421,12.05.2019,12.05.2021,210,300
-Mukhanov Evgeny Leonidovich,9256646212,17.12.2016,17.12.2019,190,0
-Kuleshova Ksenia Gennadievna,9851999603,01.09.2015,01.09.2020,30,100
-Makhno Pavel Viktorovich,9269886204,29.10.2012,29.10.2021,150,150	
-Aslanov Yakov Andreevich,9946665401,21.07.2019,21.07.2021,13,250
-Bogatsky Alexey Vladimirovich,4955075817,11.08.2008,11.08.2015,20000,300
-Emirbekova Elena Emirbekovna,9858111573,30.04.2019,30.04.2027,0,0
-Tambiev Abubakir Hasanovich,9259222838,27.07.2018,27.07.2023,50,50
+Abashin Andrey Andreevich,9252115923,29.11.2020,29.11.2023,500,1500
+Bocharov Nikita Andreevih,4993921025,09.03.2018,09.03.2022,0,0		
+Rusinov Ruslan Andreevich,4955457421,12.05.2019,12.05.2021,210,300
+Kolmogorov Vladislav Aleksandrovich,9256646212,17.12.2016,17.12.2019,190,0
+Rudneva Dariya Aleksandrovna,9851999603,01.09.2015,01.09.2020,30,100
+Avedikyan Grigori Petrovich,9269886204,29.10.2012,29.10.2021,150,150	
+Ermolov Pavel Evgenievich,9946665401,21.07.2019,21.07.2021,13,250
+Kubarev Andrey Ilych,4955075817,11.08.2008,11.08.2015,20000,300
+Arabajan Matvey Arsenovich,9858111573,30.04.2019,30.04.2027,0,0
+Teturashvili Elena Victorovna,9259222838,27.07.2018,27.07.2023,50,50
+

@@ -1,0 +1,10 @@
+full unlimited,1,450,mon
+sms,2,1,#
+roaming,3,3,min
+international tariff,4,5,min
+unlimited games,5,250,mon
+unlimited messengers,6,250,mon
+always in touch,7,200,mon
+a bit of everything,8,170,mon
+all inclusive,9,2100,mon
+vertebral,10,300,mon
